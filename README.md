@@ -1,1 +1,1 @@
-# JS-RestAPI-Sample
+JavaScript RestAPI Implementation
